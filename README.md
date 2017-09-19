@@ -1,4 +1,4 @@
-# Privat24
+# Privat24 fork
 
 Это PHP API для мерчанта [Privat24](https://www.privat24.ua/).
 
